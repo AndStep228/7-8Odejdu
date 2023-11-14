@@ -13,6 +13,6 @@ jobs:
               to: ${{ secrets.TELEGRAM_TO }}
               token: ${{ secrets.TELEGRAM_TOKEN }}
               message: new message
-              photo: ../img/T-Shirt-PNG-Transparent-Image.png
+              photo: https://w.forfun.com/fetch/a6/a609f352bbc5264204247b1125224c47.jpeg
               
             
