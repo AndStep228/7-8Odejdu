@@ -13,7 +13,7 @@ jobs:
         with:
               to: ${{ secrets.TELEGRAM_TO }}
               token: ${{ secrets.TELEGRAM_TOKEN }}
-              message: Gleb loh aboba
+              message: Матвей лошочек
               photo: ./img/T-Shirt-PNG-Transparent-Image.png
               
             
