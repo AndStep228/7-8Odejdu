@@ -12,8 +12,8 @@ jobs:
         with:
               to: ${{ secrets.TELEGRAM_TO }}
               token: ${{ secrets.TELEGRAM_TOKEN }}
-              message: how it works
-              photo: T-Shirt-PNG-Transparent-Image.png
+              message: new message
+              photo: ../img/T-Shirt-PNG-Transparent-Image.png
               location: '24.9162213 121.1434972'
               
             
